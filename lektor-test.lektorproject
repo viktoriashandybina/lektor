@@ -1,0 +1,5 @@
+[project]
+name = lektor-test
+
+[servers.ghpages]
+target = ghpages+https://github.com/viktoriashandybina/lektor
